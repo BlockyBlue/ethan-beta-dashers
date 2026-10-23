@@ -130,7 +130,7 @@ window.allLevels = [
 	    "Dash",
 	    "level_22",
 	    ["RobTop", "MDK"]
-    ],/*
+    ],
     [
         "every_end",
 	    "Every End",
@@ -185,5 +185,4 @@ window.allLevels = [
 	    "level_23",
 	    ["rohanis0000", "Forever Bound"]
     ]
-	*/
 ]
