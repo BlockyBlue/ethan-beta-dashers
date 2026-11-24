@@ -136,7 +136,7 @@ window.allLevels = [
 	    "The Challenge",
 	    "level_67",
 	    ["RobTop", "idk"]
-    ],/*
+    ],
     [
         "every_end",
 	    "Every End",
@@ -191,5 +191,4 @@ window.allLevels = [
 	    "level_23",
 	    ["rohanis0000", "Forever Bound"]
     ]
-	*/
 ]
