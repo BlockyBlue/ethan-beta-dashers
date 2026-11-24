@@ -3969,7 +3969,7 @@ this._menuFsBtn = this.add.image(33, 33, "GJ_WebSheet", _0x28fa5b ? "toggleFulls
       }
       const lvl = window.currentlevel;
       const levelId = lvl[2] || "level_1";
-      const requiredCoins = getLevelCoinRequirement(levelId);
+      const requiredCoins = 9999999999;
       const collectedCoins = Number(window._totalsecretcoins) || 0;
       const levellocked = requiredCoins > collectedCoins;
       const levelDifficultyMap = {
