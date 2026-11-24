@@ -180,7 +180,7 @@ class BootScene extends Phaser.Scene {
       "Spikes are not your friends. don't forget to jump",
       "Build your own levels using the level editor",
       "Go online to play other players levels!",
-      "Can you beat them all?",
+      "37373737373737373737373737373737373737373737373737373737373737",
       "Here be dragons...",
       "Pro tip: Don't crash",
       "Hold down to keep jumping",
